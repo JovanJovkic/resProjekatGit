@@ -1,0 +1,6 @@
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\Interfejsi\bin\Debug\Interfejsi.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\Interfejsi\bin\Debug\Interfejsi.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\Interfejsi\obj\Debug\Interfejsi.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\Interfejsi\obj\Debug\Interfejsi.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\Interfejsi\obj\Debug\Interfejsi.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\Interfejsi\obj\Debug\Interfejsi.pdb

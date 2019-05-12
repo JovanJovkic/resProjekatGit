@@ -1,0 +1,6 @@
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSON\bin\Debug\AuthenticationJSON.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSON\bin\Debug\AuthenticationJSON.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSON\obj\Debug\AuthenticationJSON.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSON\obj\Debug\AuthenticationJSON.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSON\obj\Debug\AuthenticationJSON.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSON\obj\Debug\AuthenticationJSON.pdb

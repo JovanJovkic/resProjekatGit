@@ -1,0 +1,5 @@
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationDB\bin\Debug\AuthenticationDB.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationDB\bin\Debug\AuthenticationDB.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationDB\obj\Debug\AuthenticationDB.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationDB\obj\Debug\AuthenticationDB.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationDB\obj\Debug\AuthenticationDB.pdb

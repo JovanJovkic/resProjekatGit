@@ -1,0 +1,6 @@
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\FederatedIdentityProjekat.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\FederatedIdentityProjekat.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\obj\Debug\FederatedIdentityProjekat.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\obj\Debug\FederatedIdentityProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\obj\Debug\FederatedIdentityProjekat.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\obj\Debug\FederatedIdentityProjekat.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\UserInterfaceProjekat\bin\Debug\UserInterfaceProjekat.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\UserInterfaceProjekat\bin\Debug\UserInterfaceProjekat.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\UserInterfaceProjekat\obj\Debug\UserInterfaceProjekat.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\UserInterfaceProjekat\obj\Debug\UserInterfaceProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\UserInterfaceProjekat\obj\Debug\UserInterfaceProjekat.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\UserInterfaceProjekat\obj\Debug\UserInterfaceProjekat.pdb

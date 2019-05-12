@@ -1,0 +1,7 @@
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\ResProjekatAA.exe.config
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\ResProjekatAA.exe
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\ResProjekatAA.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.exe
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.pdb
