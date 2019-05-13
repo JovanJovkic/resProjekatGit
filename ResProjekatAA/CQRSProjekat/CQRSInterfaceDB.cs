@@ -9,17 +9,25 @@ namespace CQRSProjekatDB
 {
     public class CQRSInterfaceDB : ICQRSInterfaceDB
     {
-        private CitanjeDB citanje;
+        private CitanjeDB citanje = new CitanjeDB();
         private PisanjeDB pisanje;
 
         public CQRSInterfaceDB()
         {
-
+           
         }
 
         public void citaj()
         {
-            throw new NotImplementedException();
+            var context = new Users_databaseEntities();
+            var user = new User
+            {
+                username = "pera",
+                lozinka = "peric",
+                rola = "admin"
+            };
+            context.Users.Add(user);
+            context.SaveChanges();
         }
 
         public void pisi()

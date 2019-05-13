@@ -18,3 +18,14 @@ C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekat
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\Interfejsi.dll
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\Interfejsi.pdb
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\FederatedIdentityProjekat.dll
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\FederatedIdentityProjekat.pdb
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\AuthenticationDB.dll
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\AuthenticationDB.pdb
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\CQRSProjekat.dll
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\EntityFramework.dll
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\CQRSProjekat.pdb
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\CQRSProjekat.dll.config
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\EntityFramework.xml
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\EntityFramework.SqlServer.xml

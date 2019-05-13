@@ -44,6 +44,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AuthenticationDB\AuthenticationDB.csproj">
+      <Project>{6939c228-9177-4968-bf97-9fba3d0d10a5}</Project>
+      <Name>AuthenticationDB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AuthenticationJSON\AuthenticationJSON.csproj">
+      <Project>{353210e4-45a5-49c5-9f92-905b594a0524}</Project>
+      <Name>AuthenticationJSON</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Interfejsi\Interfejsi.csproj">
       <Project>{f1fd4f27-671b-49bd-afc6-5306cd3c1f97}</Project>
       <Name>Interfejsi</Name>

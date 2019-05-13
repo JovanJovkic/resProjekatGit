@@ -44,6 +44,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CQRSProjekat\CQRSProjekatDB.csproj">
+      <Project>{1d1ed079-9ec3-4094-b5eb-5043f00934d9}</Project>
+      <Name>CQRSProjekatDB</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Interfejsi\Interfejsi.csproj">
       <Project>{f1fd4f27-671b-49bd-afc6-5306cd3c1f97}</Project>
       <Name>Interfejsi</Name>

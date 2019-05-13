@@ -4,18 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Interfejsi;
+using FederatedIdentityProjekat;
 
 namespace ResProjekatAA
 {
     public class UserInterface : IUserInterface
     {
+        IFederatedIdentityInterface ifederated=new FederatedIdentityInterface();
+
         public void OdaberiSistemZaPrijavu()
         {
-            throw new NotImplementedException();
+           
         }
 
         public void PrijaviSe()
         {
+            ifederated.LogovanjeZahteva();
+
             string sistrem;
 
             do
