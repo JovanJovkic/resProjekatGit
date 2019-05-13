@@ -4,12 +4,3 @@ C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\obj\Deb
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\obj\Debug\FederatedIdentityProjekat.csproj.CoreCompileInputs.cache
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\obj\Debug\FederatedIdentityProjekat.dll
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\obj\Debug\FederatedIdentityProjekat.pdb
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\FederatedIdentityProjekat.dll
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\FederatedIdentityProjekat.pdb
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\Interfejsi.dll
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\Interfejsi.pdb
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\obj\Debug\FederatedIdentityProjekat.csprojResolveAssemblyReference.cache
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\obj\Debug\FederatedIdentityProjekat.csproj.CoreCompileInputs.cache
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\obj\Debug\FederatedIdentityProjekat.csproj.CopyComplete
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\obj\Debug\FederatedIdentityProjekat.dll
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\obj\Debug\FederatedIdentityProjekat.pdb
