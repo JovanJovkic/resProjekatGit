@@ -1,0 +1,8 @@
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekatJSON\bin\Debug\CQRSProjekatJSON.dll
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekatJSON\bin\Debug\CQRSProjekatJSON.pdb
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekatJSON\bin\Debug\Interfejsi.dll
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekatJSON\bin\Debug\Interfejsi.pdb
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.dll
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.pdb

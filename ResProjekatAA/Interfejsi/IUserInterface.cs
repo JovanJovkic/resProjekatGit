@@ -8,5 +8,6 @@ namespace Interfejsi
 {
     public interface IUserInterface
     {
+         void PrijaviSe();
     }
 }

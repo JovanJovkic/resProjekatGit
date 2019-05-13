@@ -3,3 +3,12 @@ C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationDB\bin\Debug\Authen
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationDB\obj\Debug\AuthenticationDB.csproj.CoreCompileInputs.cache
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationDB\obj\Debug\AuthenticationDB.dll
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationDB\obj\Debug\AuthenticationDB.pdb
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationDB\bin\Debug\AuthenticationDB.dll
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationDB\bin\Debug\AuthenticationDB.pdb
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationDB\bin\Debug\Interfejsi.dll
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationDB\bin\Debug\Interfejsi.pdb
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationDB\obj\Debug\AuthenticationDB.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationDB\obj\Debug\AuthenticationDB.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationDB\obj\Debug\AuthenticationDB.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationDB\obj\Debug\AuthenticationDB.dll
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationDB\obj\Debug\AuthenticationDB.pdb

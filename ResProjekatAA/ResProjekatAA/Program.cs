@@ -10,6 +10,8 @@ namespace ResProjekatAA
     {
         static void Main(string[] args)
         {
+            UserInterface ui = new UserInterface();
+            ui.PrijaviSe();
         }
     }
 }

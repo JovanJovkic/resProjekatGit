@@ -9,13 +9,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FederatedIdentityProjekat",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInterfaceProjekat", "UserInterfaceProjekat\UserInterfaceProjekat.csproj", "{45CB545B-DA60-462A-860F-8C78F9F33763}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRSProjekat", "CQRSProjekat\CQRSProjekat.csproj", "{1D1ED079-9EC3-4094-B5EB-5043F00934D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRSProjekatDB", "CQRSProjekat\CQRSProjekatDB.csproj", "{1D1ED079-9EC3-4094-B5EB-5043F00934D9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationJSON", "AuthenticationJSON\AuthenticationJSON.csproj", "{353210E4-45A5-49C5-9F92-905B594A0524}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationDB", "AuthenticationDB\AuthenticationDB.csproj", "{6939C228-9177-4968-BF97-9FBA3D0D10A5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfejsi", "Interfejsi\Interfejsi.csproj", "{F1FD4F27-671B-49BD-AFC6-5306CD3C1F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRSProjekatJSON", "CQRSProjekatJSON\CQRSProjekatJSON.csproj", "{586E4662-226B-417C-BCCA-D84281D7A6F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{F1FD4F27-671B-49BD-AFC6-5306CD3C1F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1FD4F27-671B-49BD-AFC6-5306CD3C1F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1FD4F27-671B-49BD-AFC6-5306CD3C1F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{586E4662-226B-417C-BCCA-D84281D7A6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586E4662-226B-417C-BCCA-D84281D7A6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586E4662-226B-417C-BCCA-D84281D7A6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586E4662-226B-417C-BCCA-D84281D7A6F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,3 +5,13 @@ C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjek
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.csproj.CoreCompileInputs.cache
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.exe
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.pdb
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\ResProjekatAA.exe.config
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\ResProjekatAA.exe
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\ResProjekatAA.pdb
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\Interfejsi.dll
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\Interfejsi.pdb
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.exe
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.pdb
