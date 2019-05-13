@@ -8,5 +8,7 @@ namespace Interfejsi
 {
     public interface ICQRSInterfaceDB
     {
+        void citaj();
+        void pisi();
     }
 }

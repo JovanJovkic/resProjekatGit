@@ -4,3 +4,6 @@ C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSON\obj\Debug\Auth
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSON\obj\Debug\AuthenticationJSON.csproj.CoreCompileInputs.cache
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSON\obj\Debug\AuthenticationJSON.dll
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSON\obj\Debug\AuthenticationJSON.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSON\bin\Debug\Interfejsi.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSON\bin\Debug\Interfejsi.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSON\obj\Debug\AuthenticationJSON.csproj.CopyComplete

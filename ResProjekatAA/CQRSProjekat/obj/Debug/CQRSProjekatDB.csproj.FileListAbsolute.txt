@@ -7,3 +7,12 @@ C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekat\obj\Debug\CQRSProjekat
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekat\obj\Debug\CQRSProjekatDB.csproj.CopyComplete
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekat\obj\Debug\CQRSProjekat.dll
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekat\obj\Debug\CQRSProjekat.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekat\bin\Debug\CQRSProjekat.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekat\bin\Debug\CQRSProjekat.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekat\bin\Debug\Interfejsi.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekat\bin\Debug\Interfejsi.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekat\obj\Debug\CQRSProjekatDB.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekat\obj\Debug\CQRSProjekatDB.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekat\obj\Debug\CQRSProjekatDB.csproj.CopyComplete
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekat\obj\Debug\CQRSProjekat.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekat\obj\Debug\CQRSProjekat.pdb

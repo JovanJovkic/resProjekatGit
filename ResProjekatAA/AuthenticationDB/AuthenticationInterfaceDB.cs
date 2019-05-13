@@ -16,5 +16,14 @@ namespace AuthenticationDB
 
         }
 
+        public void cuvajPodatkeDB()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void VerifikovanjeKorisnickihPodatakaDB()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -6,3 +6,12 @@ C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProj
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.csproj.CopyComplete
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.dll
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekatJSON\bin\Debug\CQRSProjekatJSON.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekatJSON\bin\Debug\CQRSProjekatJSON.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekatJSON\bin\Debug\Interfejsi.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekatJSON\bin\Debug\Interfejsi.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.csproj.CopyComplete
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.pdb

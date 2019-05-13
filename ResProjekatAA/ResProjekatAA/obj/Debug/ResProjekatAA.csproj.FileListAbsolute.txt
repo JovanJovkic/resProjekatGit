@@ -15,3 +15,6 @@ C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekat
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.csproj.CopyComplete
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.exe
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\Interfejsi.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\Interfejsi.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\obj\Debug\ResProjekatAA.csproj.CopyComplete

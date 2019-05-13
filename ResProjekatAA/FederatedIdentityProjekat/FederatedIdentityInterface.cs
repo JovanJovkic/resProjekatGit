@@ -16,5 +16,10 @@ namespace FederatedIdentityProjekat
         {
 
         }
+
+        public void LogovanjeZahteva()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

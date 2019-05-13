@@ -16,5 +16,15 @@ namespace CQRSProjekatDB
         {
 
         }
+
+        public void citaj()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void pisi()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

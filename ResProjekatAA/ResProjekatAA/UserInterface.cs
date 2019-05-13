@@ -9,6 +9,11 @@ namespace ResProjekatAA
 {
     public class UserInterface : IUserInterface
     {
+        public void OdaberiSistemZaPrijavu()
+        {
+            throw new NotImplementedException();
+        }
+
         public void PrijaviSe()
         {
             string sistrem;
@@ -53,6 +58,11 @@ namespace ResProjekatAA
             Console.WriteLine("The Password You entered is : " + lozinka);
 
             Console.ReadLine();
+        }
+
+        public void PrikaziSistemeZaPrijavu()
+        {
+            throw new NotImplementedException();
         }
     }
 }

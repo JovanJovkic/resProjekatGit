@@ -15,5 +15,15 @@ namespace AuthenticationJSON
         {
 
         }
+
+        public void cuvajPodatkeJSON()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void VerifikovanjeKorisnickihPodatakaJSON()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
