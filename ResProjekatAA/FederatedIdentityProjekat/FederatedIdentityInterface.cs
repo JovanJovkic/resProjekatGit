@@ -19,8 +19,12 @@ namespace FederatedIdentityProjekat
             
         }
 
-        public void LogovanjeZahteva()
+        public void LogovanjeZahteva(string username, string lozinka, string sistem)
         {
+            if(username == null || lozinka == null || sistem == null)
+            {
+                throw new ArgumentNullException("Vrednost ne moze biti null");
+            }
             interfaceDB.cuvajPodatkeDB();
            // throw new NotImplementedException();
         }

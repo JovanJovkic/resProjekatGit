@@ -25,3 +25,12 @@ C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekat.pdb
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekat.dll.config
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\EntityFramework.xml
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\AuthenticationDB.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\AuthenticationJSON.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekat.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\EntityFramework.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\AuthenticationDB.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\AuthenticationJSON.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekat.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekat.dll.config
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\EntityFramework.xml

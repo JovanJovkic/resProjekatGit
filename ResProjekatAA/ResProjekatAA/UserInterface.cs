@@ -19,7 +19,7 @@ namespace ResProjekatAA
 
         public void PrijaviSe()
         {
-            ifederated.LogovanjeZahteva();
+            
 
             string sistrem;
 
@@ -59,8 +59,12 @@ namespace ResProjekatAA
                 }
             } while (true);
 
+            
+
             Console.WriteLine();
             Console.WriteLine("The Password You entered is : " + lozinka);
+
+            ifederated.LogovanjeZahteva(username, lozinka, sistrem);
 
             Console.ReadLine();
         }

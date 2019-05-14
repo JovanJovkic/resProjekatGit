@@ -29,3 +29,14 @@ C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\CQRSProjeka
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\EntityFramework.xml
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\EntityFramework.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\FederatedIdentityProjekat.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\AuthenticationDB.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\CQRSProjekat.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\FederatedIdentityProjekat.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\EntityFramework.xml
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\AuthenticationDB.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\CQRSProjekat.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\CQRSProjekat.dll.config

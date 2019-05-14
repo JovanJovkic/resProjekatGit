@@ -20,3 +20,9 @@ C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationDB\bin\Debug\CQRSProj
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationDB\bin\Debug\CQRSProjekat.dll.config
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationDB\bin\Debug\EntityFramework.xml
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationDB\obj\Debug\AuthenticationDB.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationDB\bin\Debug\CQRSProjekat.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationDB\bin\Debug\EntityFramework.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationDB\bin\Debug\CQRSProjekat.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationDB\bin\Debug\CQRSProjekat.dll.config
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationDB\bin\Debug\EntityFramework.xml
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationDB\obj\Debug\AuthenticationDB.csprojAssemblyReference.cache

@@ -8,6 +8,6 @@ namespace Interfejsi
 {
     public interface IFederatedIdentityInterface
     {
-        void LogovanjeZahteva();
+        void LogovanjeZahteva(string username, string lozinka, string sistem);
     }
 }
