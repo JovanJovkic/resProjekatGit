@@ -15,3 +15,6 @@ C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSPr
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.csproj.CopyComplete
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.dll
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.pdb
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekatJSON\obj\Debug\CQRSProjekatJSON.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekatJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\CQRSProjekatJSON\bin\Debug\Newtonsoft.Json.xml

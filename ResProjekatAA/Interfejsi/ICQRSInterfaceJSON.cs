@@ -8,7 +8,7 @@ namespace Interfejsi
 {
     public interface ICQRSInterfaceJSON
     {
-        void citaj();
+        User citaj(string username);
         void pisi();
 
     }

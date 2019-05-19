@@ -12,7 +12,7 @@ namespace FederatedIdentityProjekat
     public class FederatedIdentityInterface : IFederatedIdentityInterface
     {
         private IAuthenticationInterfaceDB interfaceDB = new AuthenticationInterfaceDB();
-        IAuthenticationInterfacesJSON interfaceJSON;
+        private IAuthenticationInterfacesJSON interfaceJSON = new AuthenticationInterfaceJSON();
 
         public FederatedIdentityInterface()
         {
@@ -26,7 +26,9 @@ namespace FederatedIdentityProjekat
                 throw new ArgumentNullException("Vrednost ne moze biti null");
             }
             interfaceDB.cuvajPodatkeDB();
-           // throw new NotImplementedException();
+            // throw new NotImplementedException();
+            interfaceJSON.VerifikovanjeKorisnickihPodatakaJSON(username, lozinka);
+            interfaceJSON.cuvajPodatkeJSON();
         }
     }
 }

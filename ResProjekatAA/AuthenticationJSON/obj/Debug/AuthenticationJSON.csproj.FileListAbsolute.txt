@@ -16,3 +16,7 @@ C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSON\obj\Debug\Authen
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSON\obj\Debug\AuthenticationJSON.csproj.CopyComplete
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSON\obj\Debug\AuthenticationJSON.dll
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSON\obj\Debug\AuthenticationJSON.pdb
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSON\bin\Debug\CQRSProjekatJSON.dll
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSON\bin\Debug\CQRSProjekatJSON.pdb
+C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSON\bin\Debug\Newtonsoft.Json.xml

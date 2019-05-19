@@ -9,17 +9,18 @@ namespace CQRSProjekatJSON
 {
     public class CQRSInterfaceJSON : ICQRSInterfaceJSON
     {
-        private PisanjeJSON pisanje;
-        private CitanjeJSON citanje;
+        private PisanjeJSON pisanje = new PisanjeJSON();
+        private CitanjeJSON citanje = new CitanjeJSON();
 
         public CQRSInterfaceJSON()
         {
 
         }
 
-        public void citaj()
+        public User citaj(string username)
         {
-            throw new NotImplementedException();
+            User user = citanje.citaj(username);
+            return user;
         }
 
         public void pisi()

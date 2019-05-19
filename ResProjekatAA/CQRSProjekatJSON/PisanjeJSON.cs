@@ -8,5 +8,6 @@ namespace CQRSProjekatJSON
 {
     public class PisanjeJSON
     {
+        
     }
 }

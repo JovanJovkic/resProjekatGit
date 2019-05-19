@@ -44,6 +44,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CQRSProjekatJSON\CQRSProjekatJSON.csproj">
+      <Project>{586e4662-226b-417c-bcca-d84281d7a6f6}</Project>
+      <Name>CQRSProjekatJSON</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Interfejsi\Interfejsi.csproj">
       <Project>{f1fd4f27-671b-49bd-afc6-5306cd3c1f97}</Project>
       <Name>Interfejsi</Name>

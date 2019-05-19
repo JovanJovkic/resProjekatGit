@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CQRSProjekatJSON;
 using Interfejsi;
 
 namespace AuthenticationJSON
 {
     public class AuthenticationInterfaceJSON : IAuthenticationInterfacesJSON
     {
-        private ICQRSInterfaceJSON iCQRS_Json;
+        private ICQRSInterfaceJSON iCQRS_Json = new CQRSInterfaceJSON();
 
         public AuthenticationInterfaceJSON()
         {
@@ -18,12 +19,25 @@ namespace AuthenticationJSON
 
         public void cuvajPodatkeJSON()
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
 
-        public void VerifikovanjeKorisnickihPodatakaJSON()
+        public void VerifikovanjeKorisnickihPodatakaJSON(string username, string lozinka)
         {
-            throw new NotImplementedException();
+            User u = iCQRS_Json.citaj(username);
+
+            if (u == null)
+                return;
+
+            if (u.Lozinka == lozinka)
+            {
+                //user je ukucao dobru lozinku i treba mu proslediti kljuc
+            }
+            else
+            {
+                //user nije ukucao dobru lozinku za username i treba mu poslati obavestenje o tome
+            }
         }
     }
 }
+

@@ -15,7 +15,6 @@ namespace FederatedIdentityProjekatTEST
         [TestCase("pera", "123", null)]
         [TestCase("pera", null, "db")]
         [TestCase("pera", "123", null)]
-        //[TestCase("pera", "123", "db")]
         [TestCase(null, null, null)]
         public void LogovanjeZahteva_NullArguments_ThrowsException(string username, string lozinka, string sistem)
         {

@@ -22,12 +22,12 @@ namespace CQRSProjekatDB
             var context = new Users_databaseEntities();
             var user = new User
             {
-                username = "pera",
+                username = "peraa",
                 lozinka = "peric",
                 rola = "admin"
             };
             context.Users.Add(user);
-            context.SaveChanges();
+            //context.SaveChanges();
         }
 
         public void pisi()
