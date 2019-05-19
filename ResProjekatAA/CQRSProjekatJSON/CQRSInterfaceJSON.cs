@@ -16,16 +16,18 @@ namespace CQRSProjekatJSON
         {
 
         }
-
+        
         public User citaj(string username)
         {
-            User user = citanje.citaj(username);
-            return user;
+            //User user = citanje.citaj(username);
+            //return user;
+            return null;
         }
 
         public void pisi(string username,string lozinka)
         {
-            pisanje.Pisi(username,lozinka);
+            //pisanje.Pisi(username,lozinka);
         }
+        
     }
 }

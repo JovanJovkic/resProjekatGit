@@ -38,3 +38,7 @@ C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekatJSON.pdb
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekatJSON.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekatJSON.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\Newtonsoft.Json.xml

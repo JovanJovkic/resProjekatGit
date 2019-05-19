@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Interfejsi;
 using AuthenticationDB;
 using AuthenticationJSON;
+using System.IO;
 
 namespace FederatedIdentityProjekat
 {
@@ -13,6 +14,9 @@ namespace FederatedIdentityProjekat
     {
         private IAuthenticationInterfaceDB interfaceDB = new AuthenticationInterfaceDB();
         private IAuthenticationInterfacesJSON interfaceJSON = new AuthenticationInterfaceJSON();
+
+        public bool file = false;
+        private string path = "projekatLog.txt";
 
         public FederatedIdentityInterface()
         {
@@ -25,10 +29,33 @@ namespace FederatedIdentityProjekat
             {
                 throw new ArgumentNullException("Vrednost ne moze biti null");
             }
+            IspisiUTekstualniFajl(username, lozinka, sistem);
             interfaceDB.cuvajPodatkeDB();
             // throw new NotImplementedException();
-            interfaceJSON.VerifikovanjeKorisnickihPodatakaJSON(username, lozinka);
+            //interfaceJSON.VerifikovanjeKorisnickihPodatakaJSON(username, lozinka);
             interfaceJSON.cuvajPodatkeJSON(username,lozinka);
+        }
+
+        public void IspisiUTekstualniFajl(string username, string lozinka, string sistem)
+        {
+            if (!file)
+            {
+                StreamWriter writer;
+                using(writer = new StreamWriter(path))
+                {
+                    writer.WriteLine(DateTime.Now.ToString() + " " + username + " " + lozinka + " " + sistem);
+                }
+            }
+            else
+            {
+                StreamWriter writer;
+                using(writer = new StreamWriter(path, true))
+                {
+                    writer.WriteLine(DateTime.Now.ToString() + " " + username + " " + lozinka + " " + sistem);
+                }
+            }
+
+            file = true;
         }
     }
 }

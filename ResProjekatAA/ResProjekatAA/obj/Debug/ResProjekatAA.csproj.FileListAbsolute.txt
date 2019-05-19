@@ -46,3 +46,9 @@ C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\Authenticat
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\CQRSProjekatJSON.pdb
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\ResProjekatAA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\AuthenticationJSON.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\CQRSProjekatJSON.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\AuthenticationJSON.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\CQRSProjekatJSON.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\ResProjekatAA\bin\Debug\Newtonsoft.Json.xml

@@ -11,6 +11,7 @@ namespace CQRSProjekatJSON
 {
     public class CitanjeJSON
     {
+        
         public User citaj(string username)
         {
             List<User> items;
@@ -29,5 +30,6 @@ namespace CQRSProjekatJSON
 
             return null;
         }
+        
     }
 }

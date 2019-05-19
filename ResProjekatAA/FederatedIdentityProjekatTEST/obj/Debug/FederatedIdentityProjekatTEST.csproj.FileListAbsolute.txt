@@ -54,3 +54,9 @@ C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekatTEST\bin\D
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\CQRSProjekatJSON.pdb
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\AuthenticationJSON.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\CQRSProjekatJSON.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\AuthenticationJSON.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\CQRSProjekatJSON.pdb
+C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\Newtonsoft.Json.xml
