@@ -17,9 +17,9 @@ namespace AuthenticationJSON
 
         }
 
-        public void cuvajPodatkeJSON()
+        public void cuvajPodatkeJSON(string username,string lozinka)
         {
-            //throw new NotImplementedException();
+            iCQRS_Json.pisi(username,lozinka);
         }
 
         public void VerifikovanjeKorisnickihPodatakaJSON(string username, string lozinka)

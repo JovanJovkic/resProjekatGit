@@ -8,7 +8,7 @@ namespace Interfejsi
 {
     public interface IAuthenticationInterfacesJSON
     {
-        void cuvajPodatkeJSON();
+        void cuvajPodatkeJSON(string username, string lozinka);
         void VerifikovanjeKorisnickihPodatakaJSON(string username, string lozinka);
     }
 }

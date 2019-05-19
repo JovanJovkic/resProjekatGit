@@ -23,9 +23,9 @@ namespace CQRSProjekatJSON
             return user;
         }
 
-        public void pisi()
+        public void pisi(string username,string lozinka)
         {
-            throw new NotImplementedException();
+            pisanje.Pisi(username,lozinka);
         }
     }
 }

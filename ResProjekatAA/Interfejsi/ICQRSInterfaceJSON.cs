@@ -9,7 +9,7 @@ namespace Interfejsi
     public interface ICQRSInterfaceJSON
     {
         User citaj(string username);
-        void pisi();
+        void pisi(string username, string lozinka);
 
     }
 }

@@ -28,7 +28,7 @@ namespace FederatedIdentityProjekat
             interfaceDB.cuvajPodatkeDB();
             // throw new NotImplementedException();
             interfaceJSON.VerifikovanjeKorisnickihPodatakaJSON(username, lozinka);
-            interfaceJSON.cuvajPodatkeJSON();
+            interfaceJSON.cuvajPodatkeJSON(username,lozinka);
         }
     }
 }
