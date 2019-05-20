@@ -17,15 +17,14 @@ namespace AuthenticationDB
             
         }
 
-        public void cuvajPodatkeDB()
+        public void cuvajPodatkeDB(string username,string lozinka,string rola)
         {
-            iCQRS_db.citaj();
-            //throw new NotImplementedException();
+            iCQRS_db.pisi(username, lozinka, rola);
         }
 
-        public void VerifikovanjeKorisnickihPodatakaDB()
+        public void VerifikovanjeKorisnickihPodatakaDB(string username,string lozinka,string rola)
         {
-            throw new NotImplementedException();
+            Interfejsi.User user = iCQRS_db.citaj(username);
         }
     }
 }

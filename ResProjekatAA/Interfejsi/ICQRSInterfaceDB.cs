@@ -8,7 +8,7 @@ namespace Interfejsi
 {
     public interface ICQRSInterfaceDB
     {
-        void citaj();
-        void pisi();
+        User citaj(string username);
+        void pisi(string username,string lozinka,string rola);
     }
 }
