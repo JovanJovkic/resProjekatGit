@@ -8,5 +8,9 @@ namespace CQRSProjekatDB
 {
     public class CitanjeDB
     {
+        public User Citaj(string username)
+        {
+            return null;
+        }
     }
 }

@@ -8,7 +8,7 @@ namespace Interfejsi
 {
     public interface IAuthenticationInterfaceDB
     {
-        void cuvajPodatkeDB();
-        void VerifikovanjeKorisnickihPodatakaDB();
+        void cuvajPodatkeDB(string username,string lozinka,string rola);
+        void VerifikovanjeKorisnickihPodatakaDB(string username,string lozinka,string rola);
     }
 }

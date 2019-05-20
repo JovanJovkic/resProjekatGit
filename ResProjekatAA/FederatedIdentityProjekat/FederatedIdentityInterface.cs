@@ -29,11 +29,18 @@ namespace FederatedIdentityProjekat
             {
                 throw new ArgumentNullException("Vrednost ne moze biti null");
             }
+
             IspisiUTekstualniFajl(username, lozinka, sistem);
-            interfaceDB.cuvajPodatkeDB();
-            // throw new NotImplementedException();
-            //interfaceJSON.VerifikovanjeKorisnickihPodatakaJSON(username, lozinka);
-            interfaceJSON.cuvajPodatkeJSON(username,lozinka);
+
+            if (sistem.ToLower() == "db")
+            {
+                interfaceDB.cuvajPodatkeDB(username, lozinka, sistem);
+            }
+            else
+            {
+                interfaceJSON.VerifikovanjeKorisnickihPodatakaJSON(username, lozinka);
+                interfaceJSON.cuvajPodatkeJSON(username, lozinka);
+            }
         }
 
         public void IspisiUTekstualniFajl(string username, string lozinka, string sistem)
