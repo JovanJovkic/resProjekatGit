@@ -56,7 +56,7 @@ namespace FederatedIdentityProjekat
                     return false;
                 }
 
-                interfaceJSON.cuvajPodatkeJSON(username, lozinka);
+                //interfaceJSON.cuvajPodatkeJSON(username, lozinka);
             }
         }
 
