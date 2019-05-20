@@ -31,7 +31,7 @@ namespace FederatedIdentityProjekat
             }
 
 
-            //ovde moze test da bude za ovo, ako se unese nesto drugo, sto nije json ili db
+            
             if(sistem.ToLower()!="json" || sistem.ToLower()!="db")
             {
                 throw new Exception("Sistem nije dobar");

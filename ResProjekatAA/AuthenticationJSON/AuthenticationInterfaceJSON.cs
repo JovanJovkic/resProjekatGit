@@ -19,7 +19,7 @@ namespace AuthenticationJSON
 
         public void cuvajPodatkeJSON(string username,string lozinka)
         {
-            //test da li su username i lozinka null
+            
             if (username == null || lozinka == null)
             {
                 throw new ArgumentNullException("Argumenti ne mogu biti null");
@@ -29,7 +29,7 @@ namespace AuthenticationJSON
 
         public bool VerifikovanjeKorisnickihPodatakaJSON(string username, string lozinka)
         {
-            //test da li su username i lozinka null
+            
             if(username==null||lozinka==null)
             {
                 throw new ArgumentNullException("Argumenti ne mogu biti null");
