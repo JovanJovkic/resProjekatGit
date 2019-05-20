@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="CuvajPodatkeJSON.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VerifikovanjeKorisnickihPodatakaJSON.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
