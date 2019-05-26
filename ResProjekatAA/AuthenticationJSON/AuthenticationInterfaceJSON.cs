@@ -24,6 +24,7 @@ namespace AuthenticationJSON
             {
                 throw new ArgumentNullException("Argumenti ne mogu biti null");
             }
+
             iCQRS_Json.pisi(username,lozinka);
         }
 
@@ -38,18 +39,17 @@ namespace AuthenticationJSON
             User u = iCQRS_Json.citaj(username);
 
             if (u == null)
-                return false;
-
+            {
+                 return false;
+            }
+               
             if (u.Lozinka == lozinka)
             {
                 //user je ukucao dobru lozinku i treba mu proslediti kljuc
                 return true;
             }
-            else
-            {
-                //user nije ukucao dobru lozinku za username i treba mu poslati obavestenje o tome
-                return false;
-            }
+
+            return false;
         }
     }
 }

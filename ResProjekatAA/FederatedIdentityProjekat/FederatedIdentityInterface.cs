@@ -32,7 +32,7 @@ namespace FederatedIdentityProjekat
 
 
             
-            if(sistem.ToLower()!="json" || sistem.ToLower()!="db")
+            if(sistem.ToLower()!="json" && sistem.ToLower()!="db")
             {
                 throw new Exception("Sistem nije dobar");
             }

@@ -29,11 +29,11 @@ namespace FederatedIdentityProjekatTEST
         [Test]
         [TestCase("pera", "123 ", "abc")]
         [TestCase("pera", "123", "")]
-        [TestCase("pera", "123", "DB")]
-        [TestCase("pera", "123", "dB")]
-        [TestCase("pera", "123", "Db")]
-        [TestCase("pera", "123", "Json")]
-        [TestCase("pera", "12", "JSON")]
+        [TestCase("pera", "123", "DBjson")]
+        [TestCase("pera", "123", "jsoon")]
+        [TestCase("pera", "123", "dbbb")]
+        [TestCase("pera", "123", "hhh")]
+        [TestCase("pera", "12", "123")]
 
         public void LogovanjeZahteva_LosOdabirSistema_ThrowsException(string username, string lozinka, string sistem)
         {

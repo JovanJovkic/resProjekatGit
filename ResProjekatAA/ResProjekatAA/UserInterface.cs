@@ -19,7 +19,6 @@ namespace ResProjekatAA
 
         public void PrijaviSe()
         {
-
             do
             {
                 string sistrem;

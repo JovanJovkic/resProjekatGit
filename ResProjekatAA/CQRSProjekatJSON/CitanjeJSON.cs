@@ -28,7 +28,10 @@ namespace CQRSProjekatJSON
                     return item;
             }
 
-            return null;
+            var result = items.Find(item => item.Username == username);
+          
+
+            return result;
         }
         
     }

@@ -1,6 +1,1 @@
-<<<<<<< working copy
-20.5.2019. 13:25:15   db
-=======
-5/20/2019 11:52:38 AM asd asd json
-5/20/2019 11:52:51 AM use ssss json
->>>>>>> destination
+5/21/2019 6:29:49 PM sf ghgh json
