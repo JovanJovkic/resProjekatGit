@@ -14,7 +14,7 @@ namespace ResProjekatAA
 {
     public class UserInterface : IUserInterface
     {
-        IFederatedIdentityInterface ifederated=new FederatedIdentityInterface();
+        IFederatedIdentityInterface ifederated = new FederatedIdentityInterface();
 
         public UserInterface()
         {
@@ -36,6 +36,7 @@ namespace ResProjekatAA
             do
             {
                 PrikaziSistemeZaPrijavu();
+                Console.WriteLine(" ");
                 sistrem = Console.ReadLine();
                 sistrem = sistrem.ToLower();
             } while (sistrem != "1" && sistrem != "2");
@@ -99,7 +100,7 @@ namespace ResProjekatAA
 
         public void PrikaziSistemeZaPrijavu()
         {
-            Console.WriteLine("Izaberite sistem za prijavu[1 za json ili 2 za db]: ");
+            Console.WriteLine("Izaberite sistem za prijavu:\n 1. JSON\n 2. DB");
         }
     }
 }
