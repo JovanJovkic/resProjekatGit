@@ -20,11 +20,6 @@ C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\AuthenticationJSON.dll
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\AuthenticationDB.pdb
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\AuthenticationJSON.pdb
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekat.dll
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\EntityFramework.dll
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekat.pdb
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekat.dll.config
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\EntityFramework.xml
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\AuthenticationDB.dll
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\AuthenticationJSON.dll
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekat.dll
@@ -34,10 +29,6 @@ C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Deb
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekat.pdb
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekat.dll.config
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\EntityFramework.xml
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekatJSON.dll
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekatJSON.pdb
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekatJSON.dll
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekat\bin\Debug\CQRSProjekatJSON.pdb

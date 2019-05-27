@@ -58,6 +58,22 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AuthenticationDB\AuthenticationDB.csproj">
+      <Project>{6939C228-9177-4968-BF97-9FBA3D0D10A5}</Project>
+      <Name>AuthenticationDB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AuthenticationJSON\AuthenticationJSON.csproj">
+      <Project>{353210E4-45A5-49C5-9F92-905B594A0524}</Project>
+      <Name>AuthenticationJSON</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CQRSProjekatJSON\CQRSProjekatJSON.csproj">
+      <Project>{586E4662-226B-417C-BCCA-D84281D7A6F6}</Project>
+      <Name>CQRSProjekatJSON</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CQRSProjekat\CQRSProjekatDB.csproj">
+      <Project>{1D1ED079-9EC3-4094-B5EB-5043F00934D9}</Project>
+      <Name>CQRSProjekatDB</Name>
+    </ProjectReference>
     <ProjectReference Include="..\FederatedIdentityProjekat\FederatedIdentityProjekat.csproj">
       <Project>{0493340b-e3b3-4a8b-8705-7ac948539cd5}</Project>
       <Name>FederatedIdentityProjekat</Name>

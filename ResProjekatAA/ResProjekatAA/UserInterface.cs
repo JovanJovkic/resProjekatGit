@@ -5,12 +5,29 @@ using System.Text;
 using System.Threading.Tasks;
 using Interfejsi;
 using FederatedIdentityProjekat;
+using CQRSProjekatJSON;
+using CQRSProjekatDB;
+using AuthenticationDB;
+using AuthenticationJSON;
 
 namespace ResProjekatAA
 {
     public class UserInterface : IUserInterface
     {
         IFederatedIdentityInterface ifederated=new FederatedIdentityInterface();
+
+        public UserInterface()
+        {
+            ICQRSInterfaceJSON icqrsjson = new CQRSInterfaceJSON();
+            ICQRSInterfaceDB icqrsdb = new CQRSInterfaceDB();
+
+            IAuthenticationInterfacesJSON iajson = new AuthenticationInterfaceJSON(icqrsjson);
+            IAuthenticationInterfaceDB iadb = new AuthenticationInterfaceDB(icqrsdb);
+
+            IFederatedIdentityInterface ifii = new FederatedIdentityInterface(iajson, iadb);
+
+            ifederated = ifii;
+        }
 
         public void OdaberiSistemZaPrijavu()
         {
