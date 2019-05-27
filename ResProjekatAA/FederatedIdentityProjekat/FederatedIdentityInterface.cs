@@ -12,8 +12,8 @@ namespace FederatedIdentityProjekat
 {
     public class FederatedIdentityInterface : IFederatedIdentityInterface
     {
-        private IAuthenticationInterfaceDB interfaceDB = new AuthenticationInterfaceDB();
-        private IAuthenticationInterfacesJSON interfaceJSON = new AuthenticationInterfaceJSON();
+        private IAuthenticationInterfaceDB interfaceDB;
+        private IAuthenticationInterfacesJSON interfaceJSON;
 
         public bool file = false;
         private string path = "projekatLog.txt";
@@ -21,6 +21,12 @@ namespace FederatedIdentityProjekat
         public FederatedIdentityInterface()
         {
             
+        }
+
+        public FederatedIdentityInterface(IAuthenticationInterfacesJSON iajson, IAuthenticationInterfaceDB iadb)
+        {
+            interfaceJSON = iajson;
+            interfaceDB = iadb;
         }
 
         public bool LogovanjeZahteva(string username, string lozinka, string sistem)
