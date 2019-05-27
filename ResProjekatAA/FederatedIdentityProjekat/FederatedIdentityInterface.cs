@@ -38,14 +38,14 @@ namespace FederatedIdentityProjekat
 
 
             
-            if(sistem.ToLower()!="json" && sistem.ToLower()!="db")
+            if(sistem != "1" && sistem != "2")
             {
                 throw new Exception("Sistem nije dobar");
             }
 
             IspisiUTekstualniFajl(username, lozinka, sistem);
 
-            if (sistem.ToLower() == "db")
+            if (sistem == "2")
             {
                 interfaceDB.cuvajPodatkeDB(username, lozinka, sistem);
                 return true;
