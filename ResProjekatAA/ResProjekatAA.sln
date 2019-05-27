@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FederatedIdentityProjekatTE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationJSONTEST", "AuthenticationJSONTEST\AuthenticationJSONTEST.csproj", "{495A18DE-3DC2-4EA0-A9C7-C67CBE1C4469}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{DC49A502-33A5-4A58-95D9-A311004A9B22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,6 +74,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AC7E9038-DF20-4D29-A379-FC038DB46436} = {DC49A502-33A5-4A58-95D9-A311004A9B22}
+		{495A18DE-3DC2-4EA0-A9C7-C67CBE1C4469} = {DC49A502-33A5-4A58-95D9-A311004A9B22}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FA7D43A2-7D2D-4444-B4AB-97C84C689C10}
