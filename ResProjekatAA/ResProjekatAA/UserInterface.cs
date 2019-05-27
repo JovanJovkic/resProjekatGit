@@ -29,24 +29,23 @@ namespace ResProjekatAA
             ifederated = ifii;
         }
 
+        string sistrem;
+
         public void OdaberiSistemZaPrijavu()
         {
-           
+            do
+            {
+                Console.WriteLine("Izaberite sistem za prijavu[json ili db]: ");
+                sistrem = Console.ReadLine();
+                sistrem = sistrem.ToLower();
+            } while (sistrem != "json" && sistrem != "db");
         }
 
         public void PrijaviSe()
         {
             do
             {
-                string sistrem;
-
-                do
-                {
-                    Console.WriteLine("Izaberite sistem za prijavu[json ili db]: ");
-                    sistrem = Console.ReadLine();
-                    sistrem = sistrem.ToLower();
-                } while (sistrem != "json" && sistrem != "db");
-
+                OdaberiSistemZaPrijavu();
                 Console.WriteLine("Unesite username: ");
                 string username = Console.ReadLine();
                 Console.WriteLine("Unesite lozinku: ");

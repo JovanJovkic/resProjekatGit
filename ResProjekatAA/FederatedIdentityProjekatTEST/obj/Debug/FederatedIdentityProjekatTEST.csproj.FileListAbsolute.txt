@@ -7,17 +7,10 @@ C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\FederatedIdentityProjekat.dll
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\Interfejsi.dll
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\nunit.framework.dll
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\AuthenticationDB.dll
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\CQRSProjekat.dll
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\EntityFramework.dll
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\FederatedIdentityProjekat.pdb
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\Interfejsi.pdb
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\nunit.framework.pdb
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\nunit.framework.xml
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\AuthenticationDB.pdb
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\CQRSProjekat.pdb
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\CQRSProjekat.dll.config
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\EntityFramework.xml
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\obj\Debug\FederatedIdentityProjekatTEST.csprojAssemblyReference.cache
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\obj\Debug\FederatedIdentityProjekatTEST.csproj.CoreCompileInputs.cache
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\obj\Debug\FederatedIdentityProjekatTEST.csproj.CopyComplete
@@ -54,9 +47,3 @@ C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekatTEST\bin\D
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\CQRSProjekatJSON.pdb
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\AuthenticationJSON.dll
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\CQRSProjekatJSON.dll
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\AuthenticationJSON.pdb
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\CQRSProjekatJSON.pdb
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\FederatedIdentityProjekatTEST\bin\Debug\Newtonsoft.Json.xml

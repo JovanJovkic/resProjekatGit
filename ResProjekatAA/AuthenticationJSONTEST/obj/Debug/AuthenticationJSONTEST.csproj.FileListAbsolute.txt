@@ -7,14 +7,10 @@ C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\AuthenticationJSON.dll
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\Interfejsi.dll
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\nunit.framework.dll
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\CQRSProjekatJSON.dll
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\AuthenticationJSON.pdb
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\Interfejsi.pdb
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\nunit.framework.pdb
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\nunit.framework.xml
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\CQRSProjekatJSON.pdb
-C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSONTEST\obj\Debug\AuthenticationJSONTEST.csprojAssemblyReference.cache
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSONTEST\obj\Debug\AuthenticationJSONTEST.csproj.CoreCompileInputs.cache
 C:\Users\Marko\Desktop\Resprojek\ResProjekatAA\AuthenticationJSONTEST\obj\Debug\AuthenticationJSONTEST.csproj.CopyComplete
