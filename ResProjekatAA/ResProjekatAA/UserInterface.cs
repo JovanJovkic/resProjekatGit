@@ -35,7 +35,7 @@ namespace ResProjekatAA
         {
             do
             {
-                Console.WriteLine("Izaberite sistem za prijavu[json ili db]: ");
+                PrikaziSistemeZaPrijavu();
                 sistrem = Console.ReadLine();
                 sistrem = sistrem.ToLower();
             } while (sistrem != "json" && sistrem != "db");
@@ -99,7 +99,7 @@ namespace ResProjekatAA
 
         public void PrikaziSistemeZaPrijavu()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Izaberite sistem za prijavu[json ili db]: ");
         }
     }
 }
