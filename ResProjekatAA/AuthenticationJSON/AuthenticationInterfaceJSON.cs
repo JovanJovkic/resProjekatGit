@@ -10,11 +10,16 @@ namespace AuthenticationJSON
 {
     public class AuthenticationInterfaceJSON : IAuthenticationInterfacesJSON
     {
-        private ICQRSInterfaceJSON iCQRS_Json = new CQRSInterfaceJSON();
+        private ICQRSInterfaceJSON iCQRS_Json;
 
         public AuthenticationInterfaceJSON()
         {
 
+        }
+
+        public AuthenticationInterfaceJSON(ICQRSInterfaceJSON icqrsJson)
+        {
+            iCQRS_Json = icqrsJson;
         }
 
         public void cuvajPodatkeJSON(string username,string lozinka)

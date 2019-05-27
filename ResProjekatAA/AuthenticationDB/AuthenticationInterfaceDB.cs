@@ -10,11 +10,16 @@ namespace AuthenticationDB
 {
     public class AuthenticationInterfaceDB : IAuthenticationInterfaceDB
     {
-        private ICQRSInterfaceDB iCQRS_db = new CQRSInterfaceDB();
+        private ICQRSInterfaceDB iCQRS_db;
 
         public AuthenticationInterfaceDB()
         {
             
+        }
+
+        public AuthenticationInterfaceDB(ICQRSInterfaceDB icqrsDb)
+        {
+            iCQRS_db = icqrsDb;
         }
 
         public void cuvajPodatkeDB(string username,string lozinka,string rola)
