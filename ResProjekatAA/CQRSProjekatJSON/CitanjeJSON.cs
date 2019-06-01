@@ -16,7 +16,7 @@ namespace CQRSProjekatJSON
         {
             List<User> items;
 
-            using (StreamReader r = new StreamReader(@"C:\Users\Korisnik\Desktop\json.txt"))
+            using (StreamReader r = new StreamReader(@"..\json.txt"))
             {
                 string json = r.ReadToEnd();
                 items = JsonConvert.DeserializeObject<List<User>>(json);

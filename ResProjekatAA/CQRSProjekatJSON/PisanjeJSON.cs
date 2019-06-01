@@ -2,6 +2,7 @@
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,6 +14,13 @@ namespace CQRSProjekatJSON
         public void Pisi(string username, string lozinka)
         {
             List<User> lista = new List<User>();
+
+            using (StreamReader r = new StreamReader(@"..\json.txt"))
+            {
+                string json = r.ReadToEnd();
+                lista = JsonConvert.DeserializeObject<List<User>>(json);
+            }
+            
             lista.Add(new User()
             {
                 Username = username,
@@ -20,10 +28,13 @@ namespace CQRSProjekatJSON
                 Rola = "admin"
             });
 
-            string json = JsonConvert.SerializeObject(lista.ToArray());
+            string jsonTekst = JsonConvert.SerializeObject(lista.ToArray());
 
-            //write string to file
-            System.IO.File.WriteAllText(@"C:\Users\Korisnik\Desktop\json.txt", json);
+            string path = @"..\json.txt";
+
+                File.WriteAllText(path, jsonTekst);
+       
+
         }
     }
 }

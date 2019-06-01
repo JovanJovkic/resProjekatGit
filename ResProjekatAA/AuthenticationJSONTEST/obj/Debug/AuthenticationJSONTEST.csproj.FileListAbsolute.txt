@@ -25,14 +25,10 @@ C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\Au
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\AuthenticationJSON.dll
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\Interfejsi.dll
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\nunit.framework.dll
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\CQRSProjekatJSON.dll
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\AuthenticationJSON.pdb
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\Interfejsi.pdb
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\nunit.framework.pdb
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\nunit.framework.xml
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\CQRSProjekatJSON.pdb
-C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSONTEST\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSONTEST\obj\Debug\AuthenticationJSONTEST.csprojResolveAssemblyReference.cache
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSONTEST\obj\Debug\AuthenticationJSONTEST.csproj.CoreCompileInputs.cache
 C:\Users\Korisnik\Desktop\proj\ResProjekatAA\AuthenticationJSONTEST\obj\Debug\AuthenticationJSONTEST.csproj.CopyComplete

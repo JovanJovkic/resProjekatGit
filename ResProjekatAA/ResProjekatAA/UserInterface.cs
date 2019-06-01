@@ -16,6 +16,8 @@ namespace ResProjekatAA
     {
         IFederatedIdentityInterface ifederated = new FederatedIdentityInterface();
 
+        private bool autentifikovan=false;
+
         public UserInterface()
         {
             ICQRSInterfaceJSON icqrsjson = new CQRSInterfaceJSON();
@@ -30,13 +32,13 @@ namespace ResProjekatAA
         }
 
         string sistrem;
+        string akcija;
 
         public void OdaberiSistemZaPrijavu()
         {
             do
             {
                 PrikaziSistemeZaPrijavu();
-                Console.WriteLine(" ");
                 sistrem = Console.ReadLine();
                 sistrem = sistrem.ToLower();
             } while (sistrem != "1" && sistrem != "2");
@@ -48,59 +50,123 @@ namespace ResProjekatAA
             {
                 OdaberiSistemZaPrijavu();
                 Console.WriteLine("Unesite username: ");
+                Console.Write(">>");
                 string username = Console.ReadLine();
+               
                 Console.WriteLine("Unesite lozinku: ");
+                Console.Write(">>");
                 string lozinka = "";
-                ConsoleKeyInfo key;
 
-                do
-                {
-                    key = Console.ReadKey(true);
-                    // Backspace Should Not Work
-                    if (key.Key != ConsoleKey.Backspace && key.Key != ConsoleKey.Enter)
-                    {
-                        lozinka += key.KeyChar;
-                        Console.Write("*");
-                    }
-                    else
-                    {
-                        if (key.Key == ConsoleKey.Backspace && lozinka.Length > 0)
-                        {
-                            lozinka = lozinka.Substring(0, (lozinka.Length - 1));
-                            Console.Write("\b \b");
-                        }
-                        else if (key.Key == ConsoleKey.Enter)
-                        {
-                            break;
-                        }
-                    }
-                } while (true);
-
-
+                lozinka = UnosLozinke();
 
                 Console.WriteLine();
                 Console.WriteLine("The Password You entered is : " + lozinka);
 
-                bool postoji = ifederated.LogovanjeZahteva(username, lozinka, sistrem);
+                autentifikovan = ifederated.LogovanjeZahteva(username, lozinka, sistrem);
 
-                if (postoji)
+                if (autentifikovan)
                 {
-                    Console.WriteLine("Uspesno ste se ulogovali");
+                    Console.WriteLine("*** Uspesno ste se ulogovali");
                     break;
                 }
                 else
                 {
-                    Console.WriteLine("Niste uneli tacne podatke");
+                    Console.WriteLine("*** Niste uneli tacne podatke");
                 }
 
             } while (true);
 
+            do {
+                string akcija = IzaberiAkciju();
+                IzvrsiAkciju(akcija);
+
+                if(akcija=="3")
+                {
+                    break;
+                }
+
+            } while (true);
+
+
+
             Console.ReadLine();
+        }
+
+        public void IzvrsiAkciju(string akcija)
+        {
+            if(akcija=="2")
+            {
+                Console.WriteLine("Unesite username: ");
+                Console.Write(">>");
+                string username = Console.ReadLine();
+
+                Console.WriteLine("Unesite lozinku: ");
+                Console.Write(">>");
+                string lozinka = "";
+
+                lozinka = UnosLozinke();
+
+                ifederated.SacuvajPodatke(username,lozinka);
+            }
+        }
+
+        public string IzaberiAkciju()
+        {
+            do
+            {
+                PrikaziAkcije();
+                akcija = Console.ReadLine();
+            } while (akcija != "1" && akcija != "2" && akcija != "3");
+
+            return akcija;
+        }
+
+        public void PrikaziAkcije()
+        {
+            Console.WriteLine("Izaberite akciju: ");
+            Console.WriteLine("\r\t1. Pronadji korisnika ");  //metoda za pronalazenje
+            Console.WriteLine("\r\t2. Dodaj korisnika ");  //metoda za dodavanje 
+            Console.WriteLine("\r\t3. Odjavi se ");  //metoda za dodavanje 
+            Console.Write(">>");
         }
 
         public void PrikaziSistemeZaPrijavu()
         {
-            Console.WriteLine("Izaberite sistem za prijavu:\n 1. JSON\n 2. DB");
+            Console.WriteLine("Izaberite sistem za prijavu:");
+            Console.WriteLine("\r\t1. JSON");
+            Console.WriteLine("\r\t2. DB");
+            Console.Write(">>");
+        }
+
+        public string UnosLozinke()
+        {
+            string lozinka = "";
+            ConsoleKeyInfo key;
+
+            do
+            {
+                key = Console.ReadKey(true);
+                // Backspace Should Not Work
+                if (key.Key != ConsoleKey.Backspace && key.Key != ConsoleKey.Enter)
+                {
+                    lozinka += key.KeyChar;
+                    Console.Write("*");
+                }
+                else
+                {
+                    if (key.Key == ConsoleKey.Backspace && lozinka.Length > 0)
+                    {
+                        lozinka = lozinka.Substring(0, (lozinka.Length - 1));
+                        Console.Write("\b \b");
+                    }
+                    else if (key.Key == ConsoleKey.Enter)
+                    {
+                        break;
+                    }
+                }
+            } while (true);
+
+            return lozinka;
         }
     }
 }
