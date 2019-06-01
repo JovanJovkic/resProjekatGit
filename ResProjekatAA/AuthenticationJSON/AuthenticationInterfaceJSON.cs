@@ -56,6 +56,11 @@ namespace AuthenticationJSON
 
             return false;
         }
+
+        public User PronadjiKorisnika(string username)
+        {
+            return iCQRS_Json.citaj(username);
+        }
     }
 }
 

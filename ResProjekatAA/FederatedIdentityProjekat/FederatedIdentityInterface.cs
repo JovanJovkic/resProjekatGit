@@ -55,13 +55,16 @@ namespace FederatedIdentityProjekat
 
             IspisiUTekstualniFajl(username, lozinka, sistem);
 
-            if (sistem == "2")
+            bool postoji;
+            if (trenutniSistem == Sistemi.JSON)
             {
-                interfaceDB.cuvajPodatkeDB(username, lozinka, sistem);
-                return true;
+                postoji = interfaceJSON.VerifikovanjeKorisnickihPodatakaJSON(username, lozinka);
+            }
+            else
+            {
+                postoji = interfaceDB.VerifikovanjeKorisnickihPodatakaDB(username, lozinka,"admin");
             }
 
-            bool postoji=interfaceJSON.VerifikovanjeKorisnickihPodatakaJSON(username, lozinka);
             if(postoji)
             {
                 return true;
@@ -69,14 +72,11 @@ namespace FederatedIdentityProjekat
 
             return false;
             
-
-            //interfaceJSON.cuvajPodatkeJSON(username, lozinka);
-            
         }
 
         public void IspisiUTekstualniFajl(string username, string lozinka, string sistem)
         {
-            if (!file)
+            if (!File.Exists(path))
             {
                 StreamWriter writer;
                 using(writer = new StreamWriter(path))
@@ -106,16 +106,18 @@ namespace FederatedIdentityProjekat
             interfaceDB.cuvajPodatkeDB(username, lozinka,"korisnik");
         }
 
-        /*
-        public void PronadjiKorisnika(string username)
+        
+        public User PronadjiKorisnika(string username)
         {
             if (trenutniSistem == Sistemi.JSON)
             {
-                interfaceJSON.cuvajPodatkeJSON(username, lozinka);
+                return interfaceJSON.PronadjiKorisnika(username);
             }
 
-            interfaceDB.cuvajPodatkeDB(username, lozinka, "korisnik");
+            
+
+            return interfaceDB.PronadjiKorisnika(username);
         }
-        */
+        
     }
 }

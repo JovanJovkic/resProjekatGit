@@ -108,6 +108,28 @@ namespace ResProjekatAA
 
                 ifederated.SacuvajPodatke(username,lozinka);
             }
+            else if(akcija=="1")
+            {
+                Console.WriteLine("Unesite username: ");
+                Console.Write(">>");
+                string username = Console.ReadLine();
+                Interfejsi.User u=ifederated.PronadjiKorisnika(username);
+                IspisiRezultatPretrageKorisnika(u);
+            }
+        }
+
+        public void IspisiRezultatPretrageKorisnika(Interfejsi.User u)
+        {
+            if(u==null)
+            {
+                Console.WriteLine("Nije pronadjen korisnik sa datim username-om!");
+                return;
+            }
+
+            Console.WriteLine("Rezultat pretrage: ");
+            Console.WriteLine("\r\tUsername: {0}",u.Username);
+            Console.WriteLine("\r\tLozinka: {0}", u.Lozinka);
+            Console.WriteLine("\r\tRola: {0}", u.Rola);
         }
 
         public string IzaberiAkciju()

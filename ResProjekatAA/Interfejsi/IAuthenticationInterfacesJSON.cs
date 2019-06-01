@@ -10,5 +10,6 @@ namespace Interfejsi
     {
         void cuvajPodatkeJSON(string username, string lozinka);
         bool VerifikovanjeKorisnickihPodatakaJSON(string username, string lozinka);
+        User PronadjiKorisnika(string username);
     }
 }

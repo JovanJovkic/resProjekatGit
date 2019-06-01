@@ -11,5 +11,7 @@ namespace Interfejsi
         bool LogovanjeZahteva(string username, string lozinka, string sistem);
 
         void SacuvajPodatke(string username, string lozinka);
+
+        User PronadjiKorisnika(string username);
     }
 }

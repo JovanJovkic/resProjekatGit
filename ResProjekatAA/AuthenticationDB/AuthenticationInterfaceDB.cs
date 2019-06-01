@@ -24,12 +24,41 @@ namespace AuthenticationDB
 
         public void cuvajPodatkeDB(string username,string lozinka,string rola)
         {
+            if (username == null || lozinka == null)
+            {
+                throw new ArgumentNullException("Argumenti ne mogu biti null");
+            }
+
             iCQRS_db.pisi(username, lozinka, rola);
         }
 
-        public void VerifikovanjeKorisnickihPodatakaDB(string username,string lozinka,string rola)
+        public bool VerifikovanjeKorisnickihPodatakaDB(string username,string lozinka,string rola)
         {
-            Interfejsi.User user = iCQRS_db.citaj(username);
+            if (username == null || lozinka == null)
+            {
+                throw new ArgumentNullException("Argumenti ne mogu biti null");
+            }
+
+
+            Interfejsi.User u = iCQRS_db.citaj(username);
+
+            if (u == null)
+            {
+                return false;
+            }
+
+            if (u.Lozinka.Trim() == lozinka)
+            {
+                //user je ukucao dobru lozinku i treba mu proslediti kljuc
+                return true;
+            }
+
+            return false;
+        }
+
+        public Interfejsi.User PronadjiKorisnika(string username)
+        {
+            return iCQRS_db.citaj(username);
         }
     }
 }

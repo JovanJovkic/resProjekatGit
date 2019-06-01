@@ -32,9 +32,7 @@ namespace CQRSProjekatJSON
 
             string path = @"..\json.txt";
 
-                File.WriteAllText(path, jsonTekst);
-       
-
+            File.WriteAllText(path, jsonTekst);
         }
     }
 }

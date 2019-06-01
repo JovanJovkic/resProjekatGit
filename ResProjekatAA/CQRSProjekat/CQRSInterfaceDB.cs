@@ -21,6 +21,11 @@ namespace CQRSProjekatDB
         {
             User u=citanje.Citaj(username);
 
+            if(u==null)
+            {
+                return null;
+            }
+
             Interfejsi.User user = new Interfejsi.User();
             user.Username = u.username;
             user.Lozinka = u.lozinka;
